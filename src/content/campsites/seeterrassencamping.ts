@@ -17,8 +17,7 @@ const seeterrassencamping: CampsiteConfig = {
   see: "Wolfgangsee",
   regionLong: "Wolfgangsee · Salzkammergut · Österreich",
 
-  theme: "editorial",
-  heroVariant: "left",
+  heroVariant: "center",
 
   claim: "Der kleine, feine Platz am Wolfgangsee",
   claimEmphasis: "am Wolfgangsee",
@@ -165,7 +164,7 @@ const seeterrassencamping: CampsiteConfig = {
     images: [
       { src: `${IMG}/amenity-f55e8134d2.webp`, alt: "Luftaufnahme des Campingplatzes am Wolfgangsee" },
       { src: `${IMG}/amenity-7e33ad2c2e.webp`, alt: "Terrassenblick über den Platz auf den See" },
-      { src: `${IMG}/amenity-cddb8e4f45.webp`, alt: "Sommertag mit Zelten und Wohnwagen am See" },
+      { src: `${IMG}/amenity-cddb8e4f45.webp`, alt: "Sommertag mit Zelten und Wohnwagen auf dem Seeterrassencamping" },
       { src: `${IMG}/amenity-8b76fe9f7e.webp`, alt: "Ruhiger Stellplatz mit Blick auf den Wolfgangsee" },
     ],
   },
@@ -192,7 +191,6 @@ const seeterrassencamping: CampsiteConfig = {
     telHref: "tel:+4361383201",
     mail: "kontakt@seeterrassencamping.at",
     adresse: "Ried 18 · 5360 St. Wolfgang im Salzkammergut · Österreich",
-    coords: { lat: 47.7419, lng: 13.4328 },
   },
 
   languages: ["DE", "EN"],
