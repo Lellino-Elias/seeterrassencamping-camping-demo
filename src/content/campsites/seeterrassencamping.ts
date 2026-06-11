@@ -68,7 +68,7 @@ const seeterrassencamping: CampsiteConfig = {
   awards: [{ label: "camping.info Top 1001 · 2026" }],
 
   hero: {
-    aerial: { src: `${IMG}/amenity-deb5d87c03.webp`, alt: "Seeterrassencamping: Blick über den Platz auf den Wolfgangsee" },
+    aerial: { src: `${IMG}/amenity-865a565a43.webp`, alt: "Campingplatz Seeterrassencamping: Kiesweg und Rasenflächen mit Blick auf Wolfgangsee und Schafberg" },
   },
 
   breather: {
@@ -162,7 +162,7 @@ const seeterrassencamping: CampsiteConfig = {
     tag: "Wolfgangsee · Salzkammergut",
     moreCount: 30,
     images: [
-      { src: `${IMG}/amenity-f55e8134d2.webp`, alt: "Luftaufnahme des Campingplatzes am Wolfgangsee" },
+      { src: `${IMG}/amenity-3aad05cb36.webp`, alt: "Stellplatz am Wolfgangsee mit Rasenfläche, Hecke und Blick auf See und Berge" },
       { src: `${IMG}/amenity-7e33ad2c2e.webp`, alt: "Terrassenblick über den Platz auf den See" },
       { src: `${IMG}/amenity-cddb8e4f45.webp`, alt: "Sommertag mit Zelten und Wohnwagen auf dem Seeterrassencamping" },
       { src: `${IMG}/amenity-8b76fe9f7e.webp`, alt: "Ruhiger Stellplatz mit Blick auf den Wolfgangsee" },
