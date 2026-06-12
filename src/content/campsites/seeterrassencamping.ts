@@ -187,6 +187,7 @@ const seeterrassencamping: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.742811, lng: 13.433459 },
     tel: "+43 6138 3201",
     telHref: "tel:+4361383201",
     mail: "kontakt@seeterrassencamping.at",
