@@ -35,7 +35,7 @@ const seeterrassencamping: CampsiteConfig = {
     {
       title: "Direkt am Wolfgangsee",
       text: "Der Platz liegt unmittelbar am Ufer — vom Stellplatz sind es nur wenige Schritte hinunter ans Wasser.",
-      image: { src: `${IMG}/amenity-2889de2724.webp`, alt: "Wohnmobil mit Vorzelt am Ufer des Wolfgangsees" },
+      image: { src: `${IMG}/amenity-5915347898.webp`, alt: "Stellplatz am Seeterrassencamping mit direktem Blick durch die Hecke auf den Wolfgangsee" },
     },
     {
       title: "Terrassierte Stellplätze",
@@ -45,7 +45,7 @@ const seeterrassencamping: CampsiteConfig = {
     {
       title: "Bergpanorama ringsum",
       text: "Rundum schließen die Gipfel des Salzkammerguts den See ein — die Aussicht gehört hier zum Stellplatz dazu.",
-      image: { src: `${IMG}/amenity-9bf1e33b69.webp`, alt: "Wohnwagen mit Blick auf See und Berge" },
+      image: { src: `${IMG}/amenity-3615da12c4.webp`, alt: "Weiter Blick vom Seeterrassencamping auf Wolfgangsee und Schafberg im Herbst" },
     },
   ],
 
@@ -68,7 +68,7 @@ const seeterrassencamping: CampsiteConfig = {
   awards: [{ label: "camping.info Top 1001 · 2026" }],
 
   hero: {
-    aerial: { src: `${IMG}/amenity-865a565a43.webp`, alt: "Campingplatz Seeterrassencamping: Kiesweg und Rasenflächen mit Blick auf Wolfgangsee und Schafberg" },
+    aerial: { src: `${IMG}/amenity-6a853bd440.webp`, alt: "Campingplatz Seeterrassencamping: Rasenfläche mit Sanitärgebäude, Wolfgangsee und Bergpanorama im Herbstlicht" },
   },
 
   breather: {
@@ -84,7 +84,7 @@ const seeterrassencamping: CampsiteConfig = {
       {
         title: "Plätze mit Seeblick",
         text: "Die Traum- und Herzensplätze liegen terrassiert zum Wasser — morgens als Erstes der Blick auf den Wolfgangsee.",
-        image: { src: `${IMG}/amenity-b51684e1df.webp`, alt: "Stellplatz mit Seeblick am Seeterrassencamping" },
+        image: { src: `${IMG}/amenity-31dfac0c13.webp`, alt: "Stellplatz am Seeterrassencamping mit freiem Blick auf Wolfgangsee und Bergpanorama" },
       },
       {
         title: "Sonnenterrasse zur Aussicht",
@@ -104,12 +104,12 @@ const seeterrassencamping: CampsiteConfig = {
       {
         title: "Weite Panoramaplätze",
         text: "Großzügige Plätze mit freiem Blick über den See bis zu den Bergen — Raum für Vorzelt und Sonnenliege.",
-        image: { src: `${IMG}/amenity-87f343d27e.webp`, alt: "Großer Stellplatz mit Panoramablick auf den See" },
+        image: { src: `${IMG}/amenity-82737e3f0a.webp`, alt: "Großer Stellplatz am Seeterrassencamping mit Steinmauer, Weg zum See und Bergpanorama" },
       },
       {
         title: "Wiese mit Baumbestand",
         text: "Schöner Baumbestand spendet Schatten, dazwischen liegen offene Wiesenflächen mit Blick Richtung See.",
-        image: { src: `${IMG}/amenity-b3043a62a5.webp`, alt: "Wiesenfläche mit Bäumen und Blick zum Wolfgangsee" },
+        image: { src: `${IMG}/amenity-3812b781ef.webp`, alt: "Terrassierte Wiesenfläche mit Baumbestand und Herbstfarben am Seeterrassencamping" },
       },
     ],
   },
@@ -162,9 +162,12 @@ const seeterrassencamping: CampsiteConfig = {
     tag: "Wolfgangsee · Salzkammergut",
     moreCount: 30,
     images: [
+      { src: `${IMG}/amenity-ff97318b7b.webp`, alt: "Weiter Blick vom Seeterrassencamping auf Wolfgangsee und Bergkette im Herbst" },
+      { src: `${IMG}/amenity-2b8d98b30d.webp`, alt: "Sonniger Herbsttag am Seeterrassencamping: Kiesweg, Rasenfläche, Schafberg und Wolfgangsee" },
+      { src: `${IMG}/amenity-c50edf26bc.webp`, alt: "Stellplätze mit Blick auf Wolfgangsee, herbstliche Büsche und Bergpanorama" },
+      { src: `${IMG}/amenity-837f7f5c71.webp`, alt: "Herbstliche Terrassenanlage am Seeterrassencamping mit Seeblick und Schafberg" },
       { src: `${IMG}/amenity-3aad05cb36.webp`, alt: "Stellplatz am Wolfgangsee mit Rasenfläche, Hecke und Blick auf See und Berge" },
       { src: `${IMG}/amenity-7e33ad2c2e.webp`, alt: "Terrassenblick über den Platz auf den See" },
-      { src: `${IMG}/amenity-cddb8e4f45.webp`, alt: "Sommertag mit Zelten und Wohnwagen auf dem Seeterrassencamping" },
       { src: `${IMG}/amenity-8b76fe9f7e.webp`, alt: "Ruhiger Stellplatz mit Blick auf den Wolfgangsee" },
     ],
   },
